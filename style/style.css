@@ -1,0 +1,20 @@
+* {
+    background-color: #111;
+}
+
+body {
+    width: 500px;
+    display: center;
+}
+
+article {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+}
+
+img {
+    width: 200px;
+}
